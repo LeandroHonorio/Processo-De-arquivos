@@ -1,11 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <unistd.h>
-#include "ler_sem_arquivo.h"
-#include "carregar_arquivo.h"
-#include "minuscula.h"
-#include "lista_arquivos.h"
-#include "abrir_arquivo.h"
+#include "funcoes.h"
 
 int main() {
     int opcao = 0; 
